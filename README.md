@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGdpcm54aTZ4dWJpd2h5YWswbDhmdG1ieTFnYmZzN3dqY3g5eWVuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
-
+<br><br>
 ###
 
 <div align="left">
@@ -67,7 +67,7 @@
 </div>
 
 ###
-<br><br>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake.svg" alt="Snake animation" />
