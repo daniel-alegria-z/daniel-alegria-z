@@ -5,7 +5,7 @@ Soy un Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarr
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-esteban-alegr%C3%ADa-zamora-52b6752a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniel-alegria-z@outlook.com) [![linktree](https://img.shields.io/static/v1?message=Personal%20Web&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&)](https://mi-pagina-web-mu-nine.vercel.app)
 
-## 💼 Portfolio
+# 💼 Portafolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/daniel-alegria-z/Portafolio)
 
 
