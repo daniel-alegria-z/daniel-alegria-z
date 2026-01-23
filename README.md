@@ -67,7 +67,7 @@
 </div>
 
 ###
-
+<br><br>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake.svg" alt="Snake animation" />
