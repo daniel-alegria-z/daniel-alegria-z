@@ -45,7 +45,7 @@ I am a Systems Engineer ♾️ proficient in various technologies, including dev
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel-alegria-z&bg_color=1a1b26&color=30b0c0&line=30b0c0&point=8b949e&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daniel-alegria-z&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daniel-alegria-z&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
