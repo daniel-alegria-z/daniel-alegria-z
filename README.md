@@ -42,9 +42,3 @@ Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarroll
 </picture>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=daniel-alegria-z&label=Profile%20Views&color=0e8a16&style=flat)
-
-</div>
