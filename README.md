@@ -1,5 +1,19 @@
 # 💫 Sobre mí:
+
+<div align="center">
+
+![Spanish](https://img.shields.io/badge/Español-30b0c0?style=for-the-badge&logoColor=white) 
+![English](https://img.shields.io/badge/English-30b0c0?style=for-the-badge&logoColor=white)
+
+</div>
+
+**🇪🇸 Español**
+
 Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarrollador, auditor de seguridad, control en telemática y redes, manejo de inteligencia artificial y adaptabilidad de problemáticas. También me desempeño como especialista en diferentes tipos de lenguajes, bases de datos, testing, y manejo de herramientas modernas como frameworks en vanguardia. He trabajado en proyectos de arquitectura de software, desarrollo web full-stack y soluciones empresariales como también he participado en entornos laborales de manera internacional basado en la comunicación en inglés.
+
+---
+
+**🇬🇧 English**
 
 I am a Systems Engineer ♾️ proficient in various technologies, including development, security auditing, telematics and network management, artificial intelligence, and problem-solving. I also specialize in different programming languages, databases, testing, and modern tools such as cutting-edge frameworks. I have worked on software architecture projects, full-stack web development, and enterprise solutions, and have participated in international work environments where communication was primarily in English.
 
