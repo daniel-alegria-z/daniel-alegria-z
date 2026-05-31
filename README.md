@@ -19,6 +19,17 @@ Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarroll
 ### 🎯 Profile Overview
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-alegria-z&show_icons=true&theme=tokyonight&bg_color=1a1b26&border_color=30b0c0&title_color=30b0c0&text_color=8b949e&icon_color=30b0c0&hide_border=false&include_all_commits=true&count_private=true)
 
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=daniel-alegria-z&theme=tokyonight&background=1a1b26&border=30b0c0&ring=30b0c0&fire=30b0c0&currStreakLabel=30b0c0&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel-alegria-z&bg_color=1a1b26&color=30b0c0&line=30b0c0&point=8b949e&area=true&hide_border=true&custom_title=Contribution%20Activity)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=daniel-alegria-z&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
 ###
 
 <br clear="both">
