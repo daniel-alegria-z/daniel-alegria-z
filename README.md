@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarrollador, auditor de seguridad, control en telemática y redes, y adaptabilidad de problemáticas. También me desempeño como Desarrollador de Software con conocimientos en backend, frontend en el desarrollo web, manejando también diferentes frameworks haciendo uso de Bases de datos relacionales. He desarrollado diferentes proyectos como freelancer. Siempre ansioso por aprender y crecer.
+Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarrollador, auditor de seguridad, control en telemática y redes, manejo de inteligencia artificial y adaptabilidad de problemáticas. También me desempeño como especialista en diferentes tipos de lenguajes, bases de datos, testing, y manejo de herramientas modernas como frameworks en vanguardia. He trabajado en proyectos de arquitectura de software, desarrollo web full-stack y soluciones empresariales como también he participado en entornos laborales de manera internacional basado en la comunicación en inglés.
 
 
 ## 🌐 Redes Sociales:
