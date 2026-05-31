@@ -30,10 +30,21 @@ Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarroll
 
 </div>
 
-###
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake Animation
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake-light.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/daniel-alegria-z/daniel-alegria-z/output/snake-dark.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=daniel-alegria-z&label=Profile%20Views&color=0e8a16&style=flat)
+
+</div>
