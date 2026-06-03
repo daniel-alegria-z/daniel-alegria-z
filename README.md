@@ -18,6 +18,7 @@ Soy Ingeniero de Sistemas ♾️ dominante en varias tecnologías como desarroll
 I am a Systems Engineer ♾️ proficient in various technologies, including development, security auditing, telematics and network management, artificial intelligence, and problem-solving. I also specialize in different programming languages, databases, testing, and modern tools such as cutting-edge frameworks. I have worked on software architecture projects, full-stack web development, and enterprise solutions, and have participated in international work environments where communication was primarily in English.
 
 
+
 # 💼 Portafolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/daniel-alegria-z/Portafolio)
 
