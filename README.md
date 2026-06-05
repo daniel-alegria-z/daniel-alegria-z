@@ -32,7 +32,7 @@ I am a Systems Engineer ♾️ proficient in various technologies, including dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-esteban-a-52b6752a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniel-alegria-z@outlook.com) [![linktree](https://img.shields.io/static/v1?message=Personal%20Web&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&)](https://mi-pagina-web-mu-nine.vercel.app)
 
 
-# 📊 Estadísticas de GitHub / Stats:
+# 📊 Estadísticas en GitHub / Stats:
 
 <div align="center">
 
