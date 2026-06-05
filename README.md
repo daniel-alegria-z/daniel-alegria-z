@@ -19,7 +19,7 @@ I am a Systems Engineer ♾️ proficient in various technologies, including dev
 
 
 
-# 💼 Portafolio:
+# 💼 Portafolio / Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/daniel-alegria-z/Portafolio)
 
 
