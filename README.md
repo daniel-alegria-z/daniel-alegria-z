@@ -43,10 +43,6 @@ I am a Systems Engineer ♾️ proficient in various technologies, including dev
 ### 🔥 Contribution Streak / Racha de contribución
 ![GitHub Streak](https://streak-stats.demolab.com?user=daniel-alegria-z&theme=tokyonight&background=1a1b26&border=30b0c0&ring=30b0c0&fire=30b0c0&currStreakLabel=30b0c0)
 
-
-### 📈 Activity Graph / Gráfico de Actividad
-![Metrics](https://metrics.lecoq.io/daniel-alegria-z?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&config.timezone=America%2FBogota)
-
 </div>
 
 
