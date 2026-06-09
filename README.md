@@ -36,7 +36,7 @@ I am a Systems Engineer ♾️ proficient in various technologies, including dev
 
 <div align="center">
 
-### 🎯 Profile Overview
+### 🎯 Profile Overview / Detalles de perfil
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-alegria-z&theme=tokyonight)
 
 
